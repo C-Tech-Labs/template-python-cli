@@ -1,3 +1,9 @@
-# Example configuration file for template-python-cli
-message: "Hello from config"
-repeat: 3
+# Example YAML configuration file for template-python-cli
+# Requires the optional PyYAML dependency (pip install .[yaml])
+name: "Casey"
+greeting: "Welcome"
+punctuation: "!"
+repeat: 2
+loud: false
+metadata:
+  source: "example"
