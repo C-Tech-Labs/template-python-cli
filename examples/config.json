@@ -1,0 +1,10 @@
+{
+  "name": "Casey",
+  "greeting": "Welcome",
+  "punctuation": "!",
+  "repeat": 2,
+  "loud": false,
+  "metadata": {
+    "source": "example-json"
+  }
+}
